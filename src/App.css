@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+#light {
+  background-color: rgb(244, 244, 146);
+}
+#dark {
+  background-color: rgb(47, 28, 28);
+}
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.header {
+  width: 100%;
+  height: 590px;
+}
+.switch {
+  display: flex;
+  position: relative;
+  left: 1240px;
+  top: -340px;
+}
+.All {
+  position: relative;
+  top: 90px;
+  left: 480px;
+  border: 2px solid black;
+  width: 380px;
+  height: 360px;
+  border-radius: 20px;
+  background-color: rgb(60, 198, 232);
+}
+#light .text {
+  color: black;
+}
+#dark .text {
+  color: white;
+}
+
+#dark .All {
+  background-color: rgb(4, 93, 93);
+}
+input {
+  display: flex;
+  margin: 20px;
+  width: 320px;
+  height: 30px;
+  border-radius: 17px;
+}
