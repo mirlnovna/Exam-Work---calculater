@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Exam-Work---calculater/static/css/main.8454c310.css",
+    "main.js": "/Exam-Work---calculater/static/js/main.a3c860b5.js",
+    "index.html": "/Exam-Work---calculater/index.html",
+    "main.8454c310.css.map": "/Exam-Work---calculater/static/css/main.8454c310.css.map",
+    "main.a3c860b5.js.map": "/Exam-Work---calculater/static/js/main.a3c860b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8454c310.css",
+    "static/js/main.a3c860b5.js"
+  ]
+}
